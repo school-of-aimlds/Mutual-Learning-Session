@@ -5,8 +5,8 @@ Welcome to the first session of the MLS (Mutual Learning Session) series focusin
 ## Details
 
 - **Date:** April 09, 2024
-- **Time:** 5:00 pm
-- **Venue:** Innovation Centre
+- **Time:** 5:00 PM - 7:00 PM
+- **Venue:** KIET Innovation Centre
 
 ## Topic
 
