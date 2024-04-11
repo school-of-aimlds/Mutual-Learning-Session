@@ -1,10 +1,10 @@
 # Mutual Learning Session
 
-A mutual learning session is where individuals share knowledge and experiences, sparking innovation through collaboration and varied perspective.
+Welcome to the Mutual Learning Session GitHub repository!
 
 ## About
 
-Welcome to the Mutual Learning Session GitHub repository!
+A mutual learning session is where individuals share knowledge and experiences, sparking innovation through collaboration and varied perspective.
 
 A Mutual Learning Session is an interactive forum where individuals come together to share their knowledge, experiences, and insights. The aim is to foster collaboration, spark innovation, and promote a culture of continuous learning.
 
@@ -15,9 +15,11 @@ The purpose of this repository is to provide a platform for organizing, document
 ## Goals
 
 1. **Foster Collaboration:** Bring together individuals from diverse backgrounds to collaborate and exchange knowledge.
-2. **Open Exchange:** Facilitate an environment where ideas and experiences can be freely shared and discussed.
-3. **Gain Fresh Perspective:** Encourage participants to explore new viewpoints and approaches to problem-solving.
-4. **Encourage Sharing of Expertise:** Create opportunities for individuals to share their areas of expertise and learn from each other.
+2. **Promote Innovation:** Encourage creative thinking and problem-solving through the sharing of varied perspectives and experiences.
+3. **Encourage Continuous Learning:** Create an environment where participants can learn from each other and expand their understanding of different topics.
+4. **Open Exchange:** Facilitate open and transparent exchange of ideas, feedback, and experiences among participants.
+5. **Gain Fresh Perspective:** Provide opportunities for participants to gain new insights and perspectives by engaging with others outside their usual circles.
+6. **Encourage Sharing of Expertise:** Foster a culture of sharing and generosity where participants freely offer their expertise and knowledge to benefit others.
 
 ## How to Get Involved
 
