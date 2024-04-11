@@ -2,13 +2,6 @@
 
 A mutual learning session is where individuals share knowledge and experiences, sparking innovation through collaboration and varied perspective.
 
-## AIM:
-
-1. Foster Collaboration
-2. Open exchange
-3. Gain fresh perspective
-4. Encourage sharing of Expertise
-
 ## About
 
 Welcome to the Mutual Learning Session GitHub repository!
